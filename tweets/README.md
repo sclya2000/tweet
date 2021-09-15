@@ -1,3 +1,4 @@
+# Mini Twitter
 This is a miniture and basic version of a Twitter-like app made with Django.
 
 This app allows the user to go to the admin page, visit the splash page, login,
